@@ -1,10 +1,6 @@
 # 基于SSM的书籍管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： “**书籍1**”   ，**无需转发，直接获取**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,13 +31,4 @@
 
 ![书籍修改](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206010007286.jpg)
 
-
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “ **书籍1**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
